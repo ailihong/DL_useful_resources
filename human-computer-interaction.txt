@@ -4,4 +4,4 @@ it include:
   Motion tracking
   Skin detection using the HSV
   Face detection using the HSV
-  Head Pose Estimation
+  Head Pose Estimation using Convolutional Neural Networks
