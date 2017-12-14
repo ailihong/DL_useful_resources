@@ -5,3 +5,7 @@
 ## 3D ResNets for Action Recognition
 2017,Best in ActivityNet and Kinetics: about 68%, train time:3 weeks in 4 titan x
 [code](https://github.com/kenshohara/3D-ResNets-PyTorch)
+
+## action-recognition-visual-attention
+2015, Best in HMDB-51:41.3%, Best in Hollywood2:43.9%, 
+[code](https://github.com/kracwarlock/action-recognition-visual-attention)
