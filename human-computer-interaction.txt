@@ -1,5 +1,7 @@
-https://github.com/mpatacchiola/deepgaze
-it include:
+## deepgaze
+[github](https://github.com/mpatacchiola/deepgaze)
+
+include:
   Salient Object Detection:use in adaptive compression and object segmentation
   Motion tracking
   Skin detection using the HSV
